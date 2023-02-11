@@ -9,7 +9,7 @@
 ## <sapn id="intro"> 2. 개발 환경 </span>
 
 - 개발기간: 약 1주일
-- Html, css, JavaScript
+- html, css, JavaScript
   <br/><br/>
 
 ## <sapn id="intro"> 3. 실행 화면 및 기능 소개</span>
