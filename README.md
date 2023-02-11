@@ -5,7 +5,6 @@
 소지금을 자판기에 투입하여 원하는 음료를 구매할 수 있는 간단한 웹 서비스입니다.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/96678570/218245789-b326345e-f314-4f0e-94e1-fa3ffd317631.png">
-<br/>
 
 ## <sapn id="intro"> 2. 개발 환경 </span>
 
@@ -57,17 +56,11 @@
 
 <br/>
 
-## <sapn id="intro"> 4. 핵심 코드 </span>
-
-### 1) 반응형 웹
+## <sapn id="intro"> 4. 핵심 포인트 </span>
 
 - 모바일, 데스크톱 2가지 버전의 반응형 웹을 구현하였습니다.
 
-### 2) 웹 접근성
-
 - 시맨틱한 마크업과 IR기법을 사용하여 웹 접근성을 향상하였으며, Lighthouse 접근성 점수 100점을 달성하였습니다.
-
-### 3) 성능 최적화
 
 - DocumentFragment를 사용하여 DOM 접근 및 업데이트를 최소화함으로써 성능을 최적화하였습니다.
 
