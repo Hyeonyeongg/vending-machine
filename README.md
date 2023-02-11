@@ -5,7 +5,7 @@
 소지금을 자판기에 투입하여 원하는 음료를 구매할 수 있는 간단한 웹 서비스입니다.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/96678570/218245789-b326345e-f314-4f0e-94e1-fa3ffd317631.png">
-<br/><br/>
+<br/>
 
 ## <sapn id="intro"> 2. 개발 환경 </span>
 
